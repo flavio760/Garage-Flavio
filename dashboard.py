@@ -3,7 +3,7 @@ import pandas as pd
 import io
 
 st.set_page_config(page_title="Garage di Flavio", page_icon="🏎️")
-st.caption("📍 Tesina di Flavio - Seraphicum Roma | Ferrari vs Lamborghini 2021-2024")
+st.caption("📍 Tesina di Flavio - Istituto Seraphicum Roma | Confronto Ferrari vs Lamborghini vendite 2021-2024 - Garage di Flavio")
 st.title("🏎️ Il tuo Garage - Ferrari vs Lambo")
 st.write("Clicca i bottoni e guarda cosa succede!")
 
